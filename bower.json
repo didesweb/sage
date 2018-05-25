@@ -1,0 +1,77 @@
+{
+  "name": "sage",
+  "homepage": "https://roots.io/sage/",
+  "authors": [
+    "Ben Word <ben@benword.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "Font-Awesome": "https://github.com/FortAwesome/Font-Awesome.git#^5.0.8"
+  },
+    "overrides": {
+    "bootstrap": {
+      "main": [
+        "./scss/_functions.scss",
+        "./scss/_variables.scss",
+        "./scss/_mixins.scss",
+        "./scss/_print.scss",
+        "./scss/_reboot.scss",
+        "./scss/_type.scss",
+        "./scss/_images.scss",
+        "./scss/_code.scss",
+        "./scss/_grid.scss",
+        "./scss/_tables.scss",
+        "./scss/_forms.scss",
+        "./scss/_buttons.scss",
+        "./scss/_transitions.scss",
+        "./scss/_dropdown.scss",
+        "./scss/_button-group.scss",
+        "./scss/_input-group.scss",
+        "./scss/_custom-forms.scss",
+        "./scss/_nav.scss",
+        "./scss/_navbar.scss",
+        "./scss/_card.scss",
+        "./scss/_breadcrumb.scss",
+        "./scss/_pagination.scss",
+        "./scss/_badge.scss",
+        "./scss/_jumbotron.scss",
+        "./scss/_alert.scss",
+        "./scss/_progress.scss",
+        "./scss/_media.scss",
+        "./scss/_list-group.scss",
+        "./scss/_close.scss",
+        "./scss/_modal.scss",
+        "./scss/_tooltip.scss",
+        "./scss/_popover.scss",
+        "./scss/_carousel.scss",
+        "./scss/_utilities.scss",
+        "./dist/js/bootstrap.bundle.js"
+      ]
+    },
+    "Font-Awesome" : {
+      "main": [
+        "./web-fonts-with-css/scss/fontawesome.scss",
+        "./web-fonts-with-css/scss/fa-brands.scss",
+        "./web-fonts-with-css/webfonts/fa-brands-400.eot",
+        "./web-fonts-with-css/webfonts/fa-brands-400.svg",
+        "./web-fonts-with-css/webfonts/fa-brands-400.ttf",
+        "./web-fonts-with-css/webfonts/fa-brands-400.woff",
+        "./web-fonts-with-css/webfonts/fa-brands-400.woff2",
+        "./web-fonts-with-css/scss/fa-regular.scss",
+        "./web-fonts-with-css/webfonts/fa-regular-400.eot",
+        "./web-fonts-with-css/webfonts/fa-regular-400.svg",
+        "./web-fonts-with-css/webfonts/fa-regular-400.ttf",
+        "./web-fonts-with-css/webfonts/fa-regular-400.woff",
+        "./web-fonts-with-css/webfonts/fa-regular-400.woff2",
+        "./web-fonts-with-css/scss/fa-solid.scss",
+        "./web-fonts-with-css/webfonts/fa-solid-900.eot",
+        "./web-fonts-with-css/webfonts/fa-solid-900.svg",
+        "./web-fonts-with-css/webfonts/fa-solid-900.ttf",
+        "./web-fonts-with-css/webfonts/fa-solid-900.woff",
+        "./web-fonts-with-css/webfonts/fa-solid-900.woff2"
+      ]
+    }
+  }
+}
