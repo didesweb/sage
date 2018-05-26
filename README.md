@@ -28,7 +28,8 @@ Sage Starter theme with modifications and additions
 <li>Jquery Helpers</li>
 <li>Clean HTML</li>
 <li>Add js local libraries</li>
-<li>Remove partial wp-content</li>
+<li>Remove partial url /wp-content/themes/sage</li>
+<li>Move theme images to /uploads/themes</li>
 </ul>
 
 <h3>Security</h3>
