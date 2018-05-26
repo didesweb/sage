@@ -36,7 +36,6 @@ Sage Starter theme with modifications and additions
 <ul>
 <li>Author restricted</li>
 <li>Delete html in comments</li>
-<li>Delete login errors</li>
 <li>Remove acces wp-admin if no login</li>
 <li>Remove_xmlrpc</li>
 <li>Remove_pingback</li>
