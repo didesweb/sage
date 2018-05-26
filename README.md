@@ -1,12 +1,20 @@
 # sage
 Sage Starter theme
 
+<h3>Changes</h3>
+<ul>
+<li>Remove git</li>
+<li>Remove composer</li>
+<li>Change bower path</li>
+</ul>
+
 <h3>Includes</h3>
 <ul>
 <li>Bootstrap 4.1.1</li>
 <li>Font Awesome 5</li>
 <li>Roboto</li>
 </ul>
+
 <h3>Helpers</h3>
 <ul>
 <li>Bootstrap variables ready</li>
@@ -19,7 +27,9 @@ Sage Starter theme
 <li>JS to footer</li>
 <li>Jquery Helpers</li>
 <li>Clean HTML</li>
+<li>Add js local libraries</li>
 </ul>
+
 <h3>Security</h3>
 <ul>
 <li>Author restricted</li>
