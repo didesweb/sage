@@ -21,15 +21,6 @@ add_filter('pre_comment_content', 'wp_specialchars');
 
 
 
-/* Delete login errors */
-function ddw_log_err_msg() {
-return '';
-}
-add_filter('login_errors', 'ddw_log_err_msg');
-/**end*/
-
-
-
 /* Remove acces wp-admin if no login */
 add_action( 'init', 'blockusers_init' );
 function blockusers_init() {
