@@ -1,5 +1,5 @@
-# sage
-Sage Starter theme
+# Sage 8 Legacy
+Sage Starter theme with modifications and additions
 
 <h3>Changes</h3>
 <ul>
@@ -28,6 +28,7 @@ Sage Starter theme
 <li>Jquery Helpers</li>
 <li>Clean HTML</li>
 <li>Add js local libraries</li>
+<li>Remove partial wp-content</li>
 </ul>
 
 <h3>Security</h3>
